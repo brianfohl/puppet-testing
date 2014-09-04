@@ -1,9 +1,19 @@
 node puppetagent1
 {
-  include 'nodes-php'
+  
+  include apache
+  
+  class {'ntp':
+    servers => [ "ntp1.example.com dynamic", "ntp2.example.com dynamic", ],
+  }
 }
 
 node puppetagent2
 {
-  include 'nodes-php'
+  
+  include apache
+  
+  class {'ntp':
+    servers => [ "ntp1.example.com dynamic", "ntp2.example.com dynamic", ],
+  }
 }
