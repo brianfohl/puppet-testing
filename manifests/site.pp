@@ -1,4 +1,4 @@
-node 6251ed61d7a0
+node default
 {
   
   include node-php
@@ -8,5 +8,5 @@ node 6251ed61d7a0
 node bb0cb2978133
 {
   
-  include node-php
+  include tomcat6
 }
