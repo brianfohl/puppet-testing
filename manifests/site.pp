@@ -1,11 +1,11 @@
-node puppetagent1
+node 6251ed61d7a0
 {
   
   include node-php
 
 }
 
-node puppetagent2
+node bb0cb2978133
 {
   
   include node-php
