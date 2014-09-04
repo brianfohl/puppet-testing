@@ -1,7 +1,7 @@
 node default
 {
   
-  include node-php
+  include apache2
 
 }
 
