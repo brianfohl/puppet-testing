@@ -1,12 +1,12 @@
 node default
 {
   
-  include puppetlabs-apache2
+  include puppetlabs-apache
 
 }
 
 node bb0cb2978133
 {
   
-  include puppetlabs-tomcat6
+  include puppetlabs-tomcat
 }
