@@ -1,7 +1,7 @@
 node default
 {
   notify{"** DEFAULT NODE!! **": }
-  include classifier
+  include root-classifier
 }
 
 node '3d6e4e81a2a8'
