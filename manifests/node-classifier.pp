@@ -6,14 +6,14 @@ class node::classifier {
         case $groupname {
                 "USA:Web" : {
                         notify{"The platform is: ${groupName}": }
-                        include roles::web
+                        #include roles::web
                 }
         }
  
         case $company_role {
                 "Application" : {
                         notify{"The role is: ${$company_role}": }
-                        include roles::application
+                        #include roles::application
                 }
         }      
 }

@@ -1,12 +1,12 @@
 node default
 {
   notify{"** DEFAULT NODE!! **": }
-  include node::classifier
+  include node-classifier
 
 }
 
-node bb0cb2978133
+node '6c3917a7840c'
 {
-  notify{"** bb0cb2978133 NODE!! **": }
+  notify{"** 6c3917a7840c NODE!! **": }
   include tomcat
 }
