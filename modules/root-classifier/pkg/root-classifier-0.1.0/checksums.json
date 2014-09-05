@@ -1,0 +1,11 @@
+{
+  "Modulefile": "d43876f33f844c59618009399c18660b",
+  "README": "2bad282f6ab021e09294cf1bedb1d950",
+  "company.facts": "9487760c8043febb7b3c64aaddb9beff",
+  "lib/facter/ReadFacts.rb": "496742c347c0cbedd18899d9917428cf",
+  "manifests/classifier.pp": "504c4f35977a5e29bd59a0b6e28b10a0",
+  "manifests/init.pp": "1e6b950adef682c10a7c80e9256697ee",
+  "metadata.json": "a60c64cc74fea83d6be7c86d825c5e68",
+  "spec/spec_helper.rb": "a55d1e6483344f8ec6963fcb2c220372",
+  "tests/init.pp": "532ee471e77f19348e1848d0278891ff"
+}
