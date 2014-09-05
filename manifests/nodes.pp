@@ -1,8 +1,11 @@
 node default
 {
   notify{"** DEFAULT NODE!! **": }
+  
+  include wget
+  include curl
+  
   include node-classifier
-
 }
 
 node '3d6e4e81a2a8'
