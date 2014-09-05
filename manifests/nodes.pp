@@ -18,4 +18,5 @@ node '6c3917a7840c'
   notify{"** 6c3917a7840c NODE!! **": }
   include java
   include tomcat
+  include jenkins
 }
