@@ -1,10 +1,6 @@
 node default
 {
   notify{"** DEFAULT NODE!! **": }
-  
-  include wget
-  include curl
-  
   include node-classifier
 }
 
