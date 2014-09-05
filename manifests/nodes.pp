@@ -8,5 +8,5 @@ node default
 node '6c3917a7840c'
 {
   notify{"** 6c3917a7840c NODE!! **": }
-  include tomcat
+  include puppetlabs-tomcat
 }
