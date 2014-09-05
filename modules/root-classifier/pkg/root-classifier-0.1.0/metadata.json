@@ -1,0 +1,23 @@
+{
+  "name": "root-classifier",
+  "version": "0.1.0",
+  "source": "UNKNOWN",
+  "author": "root",
+  "license": "Apache License, Version 2.0",
+  "summary": "UNKNOWN",
+  "description": "UNKNOWN",
+  "project_page": "UNKNOWN",
+  "dependencies": [
+
+  ],
+  "types": [
+
+  ],
+  "checksums": {
+    "Modulefile": "d43876f33f844c59618009399c18660b",
+    "README": "2bad282f6ab021e09294cf1bedb1d950",
+    "manifests/init.pp": "1463de0cfbf9fe2592b8f52f8643b7a1",
+    "spec/spec_helper.rb": "a55d1e6483344f8ec6963fcb2c220372",
+    "tests/init.pp": "532ee471e77f19348e1848d0278891ff"
+  }
+}
