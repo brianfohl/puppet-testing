@@ -1,4 +1,4 @@
-class node::classifier {
+class classifier {
   
   $groupname = "$company_platform:$company_role"
   notify{"In node classifier!": }
